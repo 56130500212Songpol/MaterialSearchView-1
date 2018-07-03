@@ -236,7 +236,7 @@ public class MaterialSearchView extends FrameLayout {
         mBack.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                closeSearch();
+                
             }
         });
 
